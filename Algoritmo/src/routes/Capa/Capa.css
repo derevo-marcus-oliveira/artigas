@@ -1,0 +1,31 @@
+.capa {
+    position: relative;
+    height: 100vh;
+
+    margin-top: 75.59px;
+    margin-right: 37.80px;
+    margin-left: 75.59px;
+    margin-bottom: 37.80px;
+    border: 1px solid;
+}
+
+.capa_cabecalho {
+    position: relative;
+    height: 10%;
+    top: 0;
+}
+
+.capa_titulo {
+    position: relative;
+    height: 80%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.capa_rodape {
+    position: relative;
+    height: 10%;
+    bottom: 0;
+}

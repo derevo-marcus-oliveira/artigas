@@ -1,0 +1,40 @@
+.link i{
+  padding: 0 4px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.folha {
+  position: relative;
+  height: 80vh;
+
+  margin: 37.80px 75.59px ;
+
+  text-align: justify;
+}
+
+
+.folha_cabecalho {
+  position: relative;
+  height: 10%;
+  top: 0;
+  
+}
+
+.folha_titulo {
+  position: relative;
+  height: 80%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.folha_rodape {
+  position: relative;
+  height: 10%;
+  bottom: 0;
+}
